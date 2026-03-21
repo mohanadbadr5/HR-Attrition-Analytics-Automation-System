@@ -1,6 +1,6 @@
 📊 HR Attrition Analytics & Automation System
 
-<img width="1897" height="837" alt="HR Attrition Dashboard" src="https://github.com/user-attachments/assets/a5713c57-af16-4ab6-842b-8416a5c54eb6" />
+<img width="1897" height="831" alt="HR Attrition Dashboard" src="https://github.com/user-attachments/assets/873fe496-b55b-46f6-bec9-d2907683109c" />
 
 📌 Project Overview
 This project is a comprehensive End-to-End HR Analytics Solution designed to identify key drivers of employee turnover. It transforms raw workforce data into a dynamic, interactive dashboard that helps HR leaders move from reactive reporting to proactive retention strategies.
